@@ -6,14 +6,16 @@ body {
 }
 
 header {
-    background: #0044cc;
+    background: #ff6600;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
 
 section {
-    padding: 20px;
+    background: #e6e6e6;
+    border: 1px solid #ccc; 
+    padding: 15px; 
 }
 
 footer {
